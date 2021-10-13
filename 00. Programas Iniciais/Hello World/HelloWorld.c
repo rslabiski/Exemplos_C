@@ -2,6 +2,7 @@
 
 int main()
 {
-    pritnf("Hello world");
+    printf("Hello world");
+    printf("Modificando o primeiro ramo");
     return 0;
 }
